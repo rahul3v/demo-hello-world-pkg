@@ -1,6 +1,6 @@
 {
   "name": "demo-hello-world-pkg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Demo npm package - Just for test",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,6 @@
       "url": "https://github.com/rahul3v/demo-hello-world-pkg/issues"
     },
   "author": "rahul",
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "https://github.com/rahul3v/demo-hello-world-pkg"
 }
